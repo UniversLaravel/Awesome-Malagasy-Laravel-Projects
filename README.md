@@ -13,3 +13,4 @@
 ##### Utilities
 
 - [Laravel Currency Converter](https://github.com/mgcodeur/laravel-currency-converter) - Effortlessly convert currencies in your Laravel applications, no API key required. It's fast, easy, and completely free. [![Total Downloads](https://img.shields.io/packagist/dt/mgcodeur/laravel-currency-converter.svg?style=flat-square)](https://packagist.org/packages/mgcodeur/laravel-currency-converter)
+- [Phanisana](https://github.com/mamyraoby/phanisana) - Phanisana is a PHP library to convert numbers into string in Malagasy language.
